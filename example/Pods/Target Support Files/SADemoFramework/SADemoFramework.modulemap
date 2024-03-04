@@ -1,0 +1,6 @@
+framework module SADemoFramework {
+  umbrella header "SADemoFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

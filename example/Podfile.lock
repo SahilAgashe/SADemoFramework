@@ -1,0 +1,16 @@
+PODS:
+  - SADemoFramework (1.0.0)
+
+DEPENDENCIES:
+  - SADemoFramework (from `../SADemoFramework`)
+
+EXTERNAL SOURCES:
+  SADemoFramework:
+    :path: "../SADemoFramework"
+
+SPEC CHECKSUMS:
+  SADemoFramework: ee90e70c2aa21c54b5cf268231caab23459019f2
+
+PODFILE CHECKSUM: 6585bab92332ca3825d2567cb7e505e22d6cd386
+
+COCOAPODS: 1.12.1
